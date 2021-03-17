@@ -1,0 +1,13 @@
+.table {
+    width: 70% !important;
+    margin-top: 100px;
+    border: #3f51b5 2px solid;
+}
+
+.head {
+    background-color: #3f51b5;
+}
+
+.head * {
+    color: white !important;
+}
