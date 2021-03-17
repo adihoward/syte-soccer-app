@@ -1,0 +1,28 @@
+{
+    "teams": [
+        {
+            "id": "1",
+            "name": "FC Barcelona",
+            "founded": "November 29, 1899",
+            "crestFileName": "barca.png"
+        },
+        {
+            "id": "2",
+            "name": "Real Madrid C.F.",
+            "founded": "March 6, 1902",
+            "crestFileName": "real-madrid.png"
+        },
+        {
+            "id": "3",
+            "name": "Atlético Madrid",
+            "founded": "April 26, 1903",
+            "crestFileName": "atletico.png"
+        },
+        {
+            "id": "4",
+            "name": "Chelsea F.C.",
+            "founded": "March 10, 1905",
+            "crestFileName": "chelsea.jpeg"
+        }
+    ]
+}
